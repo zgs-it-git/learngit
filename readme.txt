@@ -6,4 +6,3 @@ Creating a new branch is quick and simple.
 haha
 Stash!
 
-exit=1
